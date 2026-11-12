@@ -32,7 +32,3 @@ Drivers_Eval     <- read.csv("Drivers_Eval.csv")
 
 source("Road Fatality Project.R")
 ```
-
-## Author
-
-[m-devo004](https://github.com/m-devo004)
