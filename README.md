@@ -1,4 +1,4 @@
-# Road Fatality ML Project
+# Road Fatality Machine Learning Project
 
 A machine learning project that predicts whether a road accident in Victoria, Australia is likely to be fatal.
 
